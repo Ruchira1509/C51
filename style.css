@@ -1,0 +1,32 @@
+body {
+    background: rgb(255, 255, 255);
+    border:rgb(237, 194, 219) 100px;
+
+}
+.header{
+    color: rgb(255, 255, 255);
+    background-color:cadetblue; 
+    display:flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: large;
+    justify-content: space-between;
+}
+
+.row1{
+    color: rgb(0, 0, 0);
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.header1{
+    color: rgb(0, 0, 0);
+    display:flex;
+    justify-content: center;
+}
+body{
+    background-color: #808080;
+}
+
+
